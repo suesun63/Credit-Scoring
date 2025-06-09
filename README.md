@@ -1,1 +1,1 @@
-# Credit-Scoring
+This project aims to analyze credit status through the analysis of a variety of client factors such as job seniority, home ownership, age, and debt. By applying exploratory data analysis and machine learning to train a model that could predict the target variable 'Status' through metrics including accuracy, precision, and recall.
